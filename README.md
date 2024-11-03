@@ -1,4 +1,4 @@
-# Simple Cricket Game:
+# Simple Cricket Game
 
 This is a text-based cricket game implemented in Python, where players can choose to either bat or bowl against a computer opponent. The game allows players to score runs while trying to outsmart the computer by guessing numbers between 1 and 6.
 
